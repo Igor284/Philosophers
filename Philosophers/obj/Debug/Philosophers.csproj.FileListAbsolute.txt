@@ -1,0 +1,7 @@
+C:\Users\TurboPC\source\repos\Philosophers.Solutions\Philosophers\bin\Debug\Philosophers.exe.config
+C:\Users\TurboPC\source\repos\Philosophers.Solutions\Philosophers\bin\Debug\Philosophers.exe
+C:\Users\TurboPC\source\repos\Philosophers.Solutions\Philosophers\bin\Debug\Philosophers.pdb
+C:\Users\TurboPC\source\repos\Philosophers.Solutions\Philosophers\obj\Debug\Philosophers.csprojAssemblyReference.cache
+C:\Users\TurboPC\source\repos\Philosophers.Solutions\Philosophers\obj\Debug\Philosophers.csproj.CoreCompileInputs.cache
+C:\Users\TurboPC\source\repos\Philosophers.Solutions\Philosophers\obj\Debug\Philosophers.exe
+C:\Users\TurboPC\source\repos\Philosophers.Solutions\Philosophers\obj\Debug\Philosophers.pdb
